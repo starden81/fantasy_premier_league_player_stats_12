@@ -3,7 +3,7 @@ require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php'; 
 
 // get base url
-$url = 'http://fantasy.premierleague.com/web/api/elements/';
+$url = 'http://fantasy.premierleague.com/web/api/elements/50';
 
 //should create automatic method to find range of pages
 #$lastplayer=
